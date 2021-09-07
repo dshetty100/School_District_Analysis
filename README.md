@@ -18,7 +18,6 @@ The analysis shows that:
 
 How is the district summary affected?
 
-![Figure1](https://github.com/dshetty100/School_District_Analysis/Resources/District_Summary.png)
 
 ![Figure1](/Resources/District_Summary.png)
 
