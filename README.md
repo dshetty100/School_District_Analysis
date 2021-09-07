@@ -18,7 +18,7 @@ The analysis shows that:
 
 How is the district summary affected?
 
-![Figure 1](/images/District_Summary.png)
+![Figure 1](/Images/District_Summary.png)
 
 ![Figure 1](/Resources/VBA_Challenge_2017.png)
 
