@@ -31,7 +31,7 @@ How is the school summary affected?
   1. Math and reading scores by grade
   
   
-![Figure1](/Resources/MathScore_Grade.png)
+![Figure2](/Resources/MathScore_Grade.png)
 
   3. Scores by school spending
   4. Scores by school size
