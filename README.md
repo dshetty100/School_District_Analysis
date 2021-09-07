@@ -9,7 +9,7 @@ The data was analyzed to see how:
   3. Scores compared with school size
   4. Scores compared with school type
 
-During the analysis, the reading and math grades for Thomas High School ninth graders was found to have been altered. The data was therfore also anlyzed to see how by replacing the math and reading scores for Thomas High School with NaNs, while keeping the rest of the data intact, affected the overall analysis.
+During the analysis, the reading and math grades for Thomas High School ninth graders were found to have been altered. The data was therefore also analyzed to see how replacing the math and reading scores for Thomas High School with NaNs, while keeping the rest of the data intact, affected the overall analysis.
 
 The analysis was performed using CSV files, schools_complete.scv and students_complete.csv, that can be found in the Resources folder. The complete code for the anlysis can be found here, http://github.com/dshetty100/School_District_Analysis
 
