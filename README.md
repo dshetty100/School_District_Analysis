@@ -1,6 +1,7 @@
 # School District Analysis
 
-The purpose of this analysis is to assist Maria, who is a chief data scientist for a city school district, in analyzing standardized test data to study performance trend and pattern. By analyzing the data on students math and reading scores, along with school funding for each student, and other information on the school they attend, Maria will be able to help school board and supritendents in making decisions regarding school budgets and priorities.
+## Overview of the Project
+The purpose of this project is to assist Maria, who is a chief data scientist for a city school district, in analyzing standardized test data from various schools in a district and look for any performance trend and pattern. By analyzing the data on students math and reading scores, along with school funding for each student, and other information on the school they attend, Maria will be able to help school board and supritendents in making decisions regarding school budgets and priorities.
 
 ## Overview of the Project
 School district summary:
