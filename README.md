@@ -3,7 +3,7 @@
 ## Overview of the Project
 School district summary:
 
--Total number of students
+- Total number of students
 -Total number of schools
 -Total budget
 -Average math score
