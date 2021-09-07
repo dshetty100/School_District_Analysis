@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview of the Project
-The purpose of this project is to assist Maria, who is a chief data scientist for a city school district, in analyzing standardized test data from various schools in a district and look for any performance trend and pattern. By analyzing the data on students math and reading scores, along with school funding for each student, and other information on the school they attend, Maria will be able to help school board and supritendents in making decisions regarding school budgets and priorities.
+The purpose of this project is to assist Maria, who is a chief data scientist for a city school district, in analyzing standardized test data from various schools in a district and look for any performance trend and pattern. By analyzing the data on student's math and reading scores, along with school funding for each student, and other information on the school they attend, Maria will be able to help school board and suprintendent in making decisions regarding school budgets and priorities.
 
 The data was analyzed to see how: 
   1. Math and reading scores of students compared with their grade
@@ -9,9 +9,9 @@ The data was analyzed to see how:
   3. Scores compared with school size
   4. Scores compared with school type
 
-During the analysis, the reading and math grades for Thomas High School ninth graders were found to have been altered. The data was therefore also analyzed to see how replacing the math and reading scores for Thomas High School with NaNs, while keeping the rest of the data intact, affected the overall analysis.
+During the analysis, the reading and math grades for Thomas High School ninth-graders were found to have been altered. The data was therefore also analyzed to see how replacing the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact, affected the overall analysis.
 
-The analysis was performed using CSV files, schools_complete.scv and students_complete.csv, that can be found in the Resources folder. The complete code for the anlysis can be found here, http://github.com/dshetty100/School_District_Analysis
+The analysis was performed using CSV files, schools_complete.csv, and students_complete.csv, which can be found in the Resources folder. The complete code for the analysis can be found here, http://github.com/dshetty100/School_District_Analysis
 
 ## Results
 The analysis shows that:
