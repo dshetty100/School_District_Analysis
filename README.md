@@ -32,6 +32,8 @@ How is the school summary affected?
   
 ![Figure2](/Images/MathScore_Grade.PNG)
 
+
+
   3. Scores by school spending
   4. Scores by school size
   5. Scores by school type
