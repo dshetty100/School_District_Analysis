@@ -19,7 +19,7 @@ The analysis shows that:
 How is the district summary affected?
 
 
-![Figure1](/Resources/District_Summary.png)
+![Figure1](../Resources/District_Summary.png)
 
 
 
