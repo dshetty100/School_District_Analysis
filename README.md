@@ -19,7 +19,7 @@ The analysis shows that:
 How is the district summary affected?
 
 
-![Figure1](/Resources/District_Summary.png)
+![Figure1](/Resources/District_Summary.PNG)
 
 
 
@@ -30,7 +30,7 @@ How is the school summary affected?
   1. Math and reading scores by grade
   
   
-![Figure2](/Resources/MathScore_Grade.png)
+![Figure2](/Resources/MathScore_Grade.PNG)
 
   3. Scores by school spending
   4. Scores by school size
