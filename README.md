@@ -16,11 +16,13 @@ The analysis was performed using CSV files, schools_complete.csv, and students_c
 ## Results
 The analysis shows that:
 
-- How is the district summary affected?
+How is the district summary affected?
 
 ![Figure 1](/images/District_Summary.png)
 
-- How is the school summary affected?
+![Figure 1](/Resources/VBA_Challenge_2017.png)
+
+How is the school summary affected?
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
   1. Math and reading scores by grade
