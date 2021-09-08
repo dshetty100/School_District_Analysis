@@ -14,9 +14,9 @@ During the analysis, the reading and math grades for Thomas High School ninth-gr
 The analysis was performed using CSV files, schools_complete.csv, and students_complete.csv, which can be found in the Resources folder. The complete code for the analysis can be found here, http://github.com/dshetty100/School_District_Analysis
 
 ## Results
-The analysis shows that:
+The analysed data shows the following:
 
-How is the district summary affected?
+- How is the district summary affected?
 
 
 ![Figure1](/Images/District_Summary.PNG)
