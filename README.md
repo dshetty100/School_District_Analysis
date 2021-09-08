@@ -22,13 +22,19 @@ The analysed data shows the following:
 
 - **School Summary**
 
-The math and reading scores by grade for Thomas High School before replacing the ninth-grade scores is as shown below.
+- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The overall pasing percentage for Thomas High School before replacing the ninth-grade scores is as shown below.
 ![Figure1](/Images/THS_School_Summary_before.PNG)
 
-The math and reading scores by grade for Thomas High School after replacing the ninth-grade scores is as shown below.
+The overall passing percentage for Thomas High School after replacing the ninth-grade scores is as shown below.
 ![Figure1](/Images/THS_School_Summary_after.PNG)
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+The result shows that Thomas High School's performance improved significantly after replacing the ninth-grade scores. Its overall passing percentage increased from % to %. It is now placed at second place amongst the top 5 performing schools
+
+
+
+
+
 - How does replacing the ninth-grade scores affect the following:
   1. Math and reading scores by grade
   
