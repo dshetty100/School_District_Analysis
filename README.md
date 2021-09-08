@@ -21,6 +21,7 @@ The analysed data shows the following:
 ![Figure1](/Images/District_Summary.PNG)
 
 - **School Summary**
+
 The math and reading scores by grade for Thomas High School before replacing the ninth-grade scores is as shown below.
 ![Figure1](/Images/THS_School_Summary_before.PNG)
 
