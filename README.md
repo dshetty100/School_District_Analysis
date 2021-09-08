@@ -22,7 +22,8 @@ The analysed data shows the following:
 
 - **School Summary**
 
-![Figure1](/Images/School_Summary.PNG)
+![Figure1](/Images/THS_School_Summary_before.PNG)
+![Figure1](/Images/THS_School_Summary_after.PNG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
