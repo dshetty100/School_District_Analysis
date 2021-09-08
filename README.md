@@ -16,24 +16,24 @@ The analysis was performed using CSV files, schools_complete.csv, and students_c
 ## Results
 The analysed data shows the following:
 
-- **District Summary:** There are 15 schools in the district with a total of 39,170 students. The average math and reading scores in the district is 78.9 and 81.9, respectively. The percentage of students passing math is 74.8%, and those passing reading is 85.7%. The overall percentage of students passing both math and reading tests is 64.9%. The result is as summarizeed in the table below. 
+- **District Summary:** There are 15 schools in the district with a total of 39,170 students. The average math and reading scores in the district is 78.9 and 81.9, respectively. The percentage of students passing math test is 74.8%, and those passing reading test is 85.7%. The overall percentage of students passing both math and reading tests is 64.9%. The result is as summarizeed in the table below. 
 
 ![Figure1](/Images/District_Summary.PNG)
 
-
-
-
-How is the school summary affected?
+- **School Summary**
 
 ![Figure1](/Images/School_Summary.PNG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
   1. Math and reading scores by grade
-  
-  
+  The math and reading scores by grade for Thomas High School before replacing the ninth-grade scores is as shown below.
 ![Figure2](/Images/MathScore_Grade.PNG)
 
+  The math and reading scores by grade for Thomas High School after replacing the ninth-grade scores is as shown below.
+  
+  
+  
 ![Figure3](/Images/ReadingScore_Grade.PNG)
 
   3. Scores by school spending
