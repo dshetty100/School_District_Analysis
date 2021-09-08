@@ -21,17 +21,19 @@ The analysed data shows the following:
 ![Figure1](/Images/District_Summary.PNG)
 
 - **School Summary**
-
+The math and reading scores by grade for Thomas High School before replacing the ninth-grade scores is as shown below.
 ![Figure1](/Images/THS_School_Summary_before.PNG)
+
+The math and reading scores by grade for Thomas High School after replacing the ninth-grade scores is as shown below.
 ![Figure1](/Images/THS_School_Summary_after.PNG)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 - How does replacing the ninth-grade scores affect the following:
   1. Math and reading scores by grade
-  The math and reading scores by grade for Thomas High School before replacing the ninth-grade scores is as shown below.
+  
 ![Figure2](/Images/MathScore_Grade.PNG)
 
-  The math and reading scores by grade for Thomas High School after replacing the ninth-grade scores is as shown below.
+  
   
   
   
