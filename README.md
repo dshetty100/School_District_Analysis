@@ -16,7 +16,7 @@ The analysis was performed using CSV files, schools_complete.csv, and students_c
 ## Results
 The analysed data shows the following:
 
-- The district result shows that there are 15 schools with a total of 39,170 students. The average math and reding scores in the district is 78.9 and 81.9, respectively. The percentage of students passing math is 74.8% and those passing reading is 85.7%. The overall passing percentage for students passing both math abd reading is 64.9%. The result is summarizeed in the table below. 
+- There are 15 schools in the district with a total of 39,170 students. The average math and reading scores in the district is 78.9 and 81.9, respectively. The percentage of students passing math is 74.8%, and those passing reading is 85.7%. The overall percentage of students passing both math and reading tests is 64.9%. The result is as summarizeed in the table below. 
 
 ![Figure1](/Images/District_Summary.PNG)
 
