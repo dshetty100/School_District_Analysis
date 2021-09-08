@@ -16,8 +16,7 @@ The analysis was performed using CSV files, schools_complete.csv, and students_c
 ## Results
 The analysed data shows the following:
 
-- How is the district summary affected?
-
+- The resukts from the district is summarizeed in the table below. 
 
 ![Figure1](/Images/District_Summary.PNG)
 
