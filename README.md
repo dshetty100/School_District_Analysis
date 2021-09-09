@@ -20,7 +20,10 @@ The analysed data shows the following:
 
 ![Figure1](/Images/District_Summary.PNG)
 
-- **School Summary:**
+- **School Summary:** The school summary result is shown below with percentages of passing math and reading tests along with overall 
+  passing percentage for various schools in the district.
+  
+  ![Figure](/Images/School_Summary.PNG)
 
 - **Effect of replacing the ninth-grade scores on Thomas High School’s performance relative to the other schools:**
 The overall pasing percentage for Thomas High School before replacing the ninth-grade scores is as shown below.
@@ -30,10 +33,6 @@ The overall passing percentage for Thomas High School after replacing the ninth-
 ![Figure1](/Images/THS_School_Summary_after.PNG)
 
 The result shows that Thomas High School's performance improved significantly after replacing the ninth-grade scores. Its overall passing percentage increased from 65.1% to 91.6%. It is now placed at second place amongst the top 5 performing schools
-
-
-
-
 
 - **Effect of replacing the ninth-grade scores on:**
   1. ***Math and reading scores by grade:*** The math and reading scores for the 10th, 11th, and 12th grade did not change in any significant way by replacing the ninth-grade score by NAN.
