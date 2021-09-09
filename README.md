@@ -22,7 +22,7 @@ The analysed data shows the following:
 
 - **School Summary:**
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- **Thomas High School’s performance relative to the other schools after replacing the ninth-grade scores:**
 The overall pasing percentage for Thomas High School before replacing the ninth-grade scores is as shown below.
 ![Figure1](/Images/THS_School_Summary_before.PNG)
 
