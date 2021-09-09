@@ -47,4 +47,7 @@ The result shows that Thomas High School's performance improved significantly af
 
   
 ## Summary
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+ - Replacing the reading and math scores for the ninth grade at Thomas High School affected the overall perfomance of the Thomas high School. It however did not affect the individual math and reading scores for the 10th, 11th and 12th grade.
+- The math and reading scores by school spending did not show any significant changes by replacing the ninth-grade scores.
+- The math and reading scores by school size also did not show significant changes to the analysis.
+- Finally, the math and reading scores by school type was not affected by replacing the ninth-grade scores.
