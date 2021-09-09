@@ -35,7 +35,7 @@ The result shows that Thomas High School's performance improved significantly af
 
 
 
-- **Replacing the ninth-grade scores ny NAN:**
+- **Replacing the ninth-grade scores by NAN:**
   1. Math and reading scores by grade: The math and reading scores for the 10th, 11th, and 12th grade did not change in any significant way by replacing the ninth-grade score by NAN.
 
   2. Scores by school spending: The math and reading scores by school spending also did not change in any significant way by replacing the ninth-grade score by NAN.
