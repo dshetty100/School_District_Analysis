@@ -20,7 +20,7 @@ The analysed data shows the following:
 
 ![Figure1](/Images/District_Summary.PNG)
 
-- **School Summary**
+- **School Summary:**
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The overall pasing percentage for Thomas High School before replacing the ninth-grade scores is as shown below.
@@ -35,28 +35,17 @@ The result shows that Thomas High School's performance improved significantly af
 
 
 
-- How does replacing the ninth-grade scores affect the following:
-  1. Math and reading scores by grade
-  
-![Figure2](/Images/MathScore_Grade.PNG)
+- **Replacing the ninth-grade scores ny NAN:
+  1. Math and reading scores by grade: The math and reading scores for the 10th, 11th, and 12th grade did not change in any significant way by replacing the ninth-grade score by NAN.
 
-  
-  
-  
-  
-![Figure3](/Images/ReadingScore_Grade.PNG)
+  2. Scores by school spending: The math and reading scores by school spending also did not change in any significant way by replacing the ninth-grade score by NAN.
 
-  3. Scores by school spending
 
-![Figure4](/Images/Score_Spending.PNG)
+  3. Scores by school size: The math and reading scores by school size did not change by replacing the ninth-grade score by NAN.
 
-  5. Scores by school size
 
-![Figure5](/Images/Scores_Size.PNG)
+  4. Scores by school type: The math and reading scores by school type did not change by replacing the ninth-grade score by NAN.
 
-  7. Scores by school type
-
-![Figure6](/Images/Scores_type.PNG)
   
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
